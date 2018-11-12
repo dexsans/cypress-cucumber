@@ -22,7 +22,12 @@
   },
   "homepage": "https://github.com/TheBrainFamily/cypress-cucumber-example#readme",
   "dependencies": {
+    "@bahmutov/add-typescript-to-cypress": "^2.0.0",
+    "@cypress/browserify-preprocessor": "^1.1.2",
+    "@types/node": "^10.12.5",
     "cypress": "^2.0.1",
-    "cypress-cucumber-preprocessor": "0.2.0"
+    "cypress-cucumber-preprocessor": "^1.2.1",
+    "tsify": "^4.0.0",
+    "typescript": "^3.1.6"
   }
 }
